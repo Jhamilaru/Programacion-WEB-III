@@ -12,3 +12,4 @@ new Promise((resolve) => {
 .then(num => {
     console.log(num); // 8
 });
+
