@@ -23,5 +23,6 @@ function miFuncion(texto) {
     return obj;
 }
 
-let obj = miFuncion("dinosaurio");
-console.log(obj); // { a:1, e:1, i:1, o:1, u:1 }
+let obj = miFuncion("euforia");
+console.log(obj); 
+
