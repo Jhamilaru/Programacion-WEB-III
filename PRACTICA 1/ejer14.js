@@ -6,3 +6,4 @@ function promesaComoCallback(cb) {
 promesaComoCallback((dato) => {
     console.log(dato);
 });
+
