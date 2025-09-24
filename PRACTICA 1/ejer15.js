@@ -9,3 +9,4 @@ function callbackAPromesa() {
 }
 
 callbackAPromesa().then(msg => console.log(msg));
+
