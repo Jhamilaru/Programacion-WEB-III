@@ -11,4 +11,6 @@ function miFuncion(arreglo) {
 }
 
 let obj = miFuncion([1,2,3,4,5]);
-console.log(obj); // { pares: [2,4], impares: [1,3,5] }
+console.log(obj); 
+
+
