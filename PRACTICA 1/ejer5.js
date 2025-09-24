@@ -15,3 +15,4 @@ console.log(band); // true
 
 band = miFuncion("hola");
 console.log(band); // false
+
